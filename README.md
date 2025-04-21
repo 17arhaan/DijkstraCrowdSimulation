@@ -1,5 +1,6 @@
-1. Real-Time Crowd Simulation
-with Pathfinding (CUDA +
+# Real-Time Crowd Simulation
+
+#### with Pathfinding (CUDA +
 OpenCL + MPI)
 Goal: Simulate thousands
 of agents moving through a
